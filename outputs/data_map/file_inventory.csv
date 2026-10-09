@@ -1,0 +1,7 @@
+dataset,file,size_MB,md5
+tpm,tcga_RSEM_gene_tpm.gz,706.46,e31439bcdeb9822cd44afd6b4ff819b9
+expected,tcga_gene_expected_count.gz,708.76,774228a07fc5c457296de8322e39c375
+norm,tcga_RSEM_Hugo_norm_count.gz,891.95,3339a324f73132ef30319ea658a709e7
+phenotype,TCGA_phenotype_denseDataOnlyDownload.tsv.gz,0.06,f3c026b3d8182f61cb9dc3020b3355de
+cdr,TCGA-CDR-SupplementalTableS1.xlsx,2.81,a4591b2dcee39591f59e5e25a6ce75fa
+survival,Survival_SupplementalTable_S1_20171025_xena_sp,2.31,50e4e056d3930bb98c51caf5f083d613

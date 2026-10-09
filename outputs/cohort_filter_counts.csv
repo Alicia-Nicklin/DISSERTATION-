@@ -1,0 +1,7 @@
+step,n
+All COAD/READ phenotype samples,732
+Unique COAD/READ phenotype patients,628
+Primary tumour samples,628
+Unique primary tumour patients,628
+Primary tumour patients with TPM expression,380
+Patients with TPM expression + TCGA-CDR,377

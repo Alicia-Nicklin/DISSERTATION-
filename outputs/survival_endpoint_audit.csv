@@ -1,0 +1,4 @@
+endpoint,status_variable,time_variable,total_patients,status_available,status_missing,time_available,time_missing,events,censored,complete_cases,percent_complete
+OS,OS,OS.time,377,377,0,377,0,85,292,377,100
+DSS,DSS,DSS.time,377,356,21,377,0,41,315,356,94.4
+PFI,PFI,PFI.time,377,377,0,377,0,103,274,377,100

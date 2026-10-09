@@ -1,0 +1,10 @@
+variable,available,n_total,n_non_missing,n_missing,percent_missing
+age_at_initial_pathologic_diagnosis,TRUE,377,377,0,0
+gender,TRUE,377,377,0,0
+race,TRUE,377,377,0,0
+ajcc_pathologic_tumor_stage,TRUE,377,377,0,0
+clinical_stage,TRUE,377,377,0,0
+histological_type,TRUE,377,377,0,0
+histological_grade,TRUE,377,377,0,0
+vital_status,TRUE,377,377,0,0
+tumor_status,TRUE,377,340,37,9.8

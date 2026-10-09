@@ -1,0 +1,10 @@
+"endpoint","analysis","n","events","logrank_p"
+"OS","Median_Split",377,85,0.588434260383398
+"OS","Four_Quartiles",377,85,0.318571236291421
+"OS","Extreme_Quartiles",189,41,0.486332739613336
+"DSS","Median_Split",356,41,0.647592104904063
+"DSS","Four_Quartiles",356,41,0.20167196424377
+"DSS","Extreme_Quartiles",178,15,0.386225924018762
+"PFI","Median_Split",377,103,0.373152521431824
+"PFI","Four_Quartiles",377,103,0.00750048415348165
+"PFI","Extreme_Quartiles",189,40,0.96755176856217
